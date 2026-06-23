@@ -9,7 +9,6 @@ If you are looking for a powerful way to analyze financial markets, the **tradin
        <a href="https://tradingviewdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with TradingView</a>
    </div>
 
-
 Using TradingView on a desktop or PC gives traders a professional environment where they can study price movements, use advanced indicators, and build effective trading strategies. This guide explains everything in detail, including installation, features, benefits, and troubleshooting tips.
 
 What Is TradingView Desktop Application?
