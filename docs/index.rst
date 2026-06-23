@@ -13,7 +13,7 @@ If you are looking for a powerful way to analyze financial markets, the **tradin
 Using TradingView on a desktop or PC gives traders a professional environment where they can study price movements, use advanced indicators, and build effective trading strategies. This guide explains everything in detail, including installation, features, benefits, and troubleshooting tips.
 
 What Is TradingView Desktop Application?
-----------------------------------------
+---------------------------------------
 
 The TradingView desktop application is a powerful charting platform designed for traders and investors who want advanced market analysis tools.
 
